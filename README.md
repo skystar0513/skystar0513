@@ -6,26 +6,19 @@
 
 
 ## 📊 Stats
-<div align="center">
-  <div style="display: flex; justify-content: space-between; width: 100%; max-width: 1000px; align-items: center;">
-    <!-- GitHub Stats -->
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=skystar0513&show_icons=true&theme=buefy" 
-      style="flex: 1; width: 48%; height: 170px; object-fit: cover; margin-right: 10px;"
-    >
-    
-    <!-- Top Languages -->
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=skystar0513&layout=compact&theme=buefy" 
-      style="flex: 1; width: 48%; height: 170px; object-fit: cover;"
-    >
-  </div>
 
-  <!-- Hits counter -->
-  <div align="right" style="margin-top: 20px;">
-    <img 
-      src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/skystar0513&count_bg=%23A8E1DB&title_bg=%23555555&icon=&icon_color=%23A8E1DB&title=hits&edge_flat=false"
-    >
-  </div>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=skystar0513&show_icons=true&theme=buefy" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skystar0513&layout=compact&theme=buefy" />
+    </td>
+  </tr>
+</table>
+
+<p align="right">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/skystar0513&count_bg=%23A8E1DB&title_bg=%23555555&icon=&icon_color=%23A8E1DB&title=hits&edge_flat=false" />
+</p>
 
